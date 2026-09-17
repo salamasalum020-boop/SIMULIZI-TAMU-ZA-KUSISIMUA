@@ -1,0 +1,6 @@
+{
+  "name": "Story Tamu za Dada Marry",
+  "description": "Platform ya hadithi za Kiswahili za mapenzi, romance, drama, heartbreak na maisha yenye kusisimua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
